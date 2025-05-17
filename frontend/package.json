@@ -1,0 +1,31 @@
+{
+    "name": "github-deepwiki-analyzer-frontend",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "github",
+        "deepwiki",
+        "markdown"
+    ],
+    "author": "",
+    "license": "ISC",
+    "description": "Frontend for GitHub DeepWiki Analyzer",
+    "dependencies": {
+        "@vue/cli-service": "^5.0.8",
+        "axios": "^1.9.0",
+        "highlight.js": "^11.9.0",
+        "marked": "^15.0.11",
+        "socket.io-client": "^4.8.1",
+        "vue": "^3.5.14",
+        "vue-loader": "^17.4.2",
+        "vue-router": "^4.5.1",
+        "vue-template-compiler": "^2.7.16",
+        "webpack": "^5.99.8",
+        "webpack-cli": "^6.0.1"
+    }
+}
