@@ -1,5 +1,5 @@
 {
-    "name": "github-deepwiki-analyzer-backend",
+    "name": "github-project-analyzer-backend",
     "version": "1.0.0",
     "main": "server.js",
     "scripts": {
@@ -11,11 +11,12 @@
         "github",
         "deepwiki",
         "nodejs",
-        "api"
+        "api",
+        "analyzer"
     ],
     "author": "",
     "license": "ISC",
-    "description": "Backend for GitHub DeepWiki Analyzer",
+    "description": "Backend for Github项目简析",
     "dependencies": {
         "axios": "^1.9.0",
         "body-parser": "^2.2.0",

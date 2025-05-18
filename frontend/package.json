@@ -1,5 +1,5 @@
 {
-    "name": "github-deepwiki-analyzer-frontend",
+    "name": "github-project-analyzer-frontend",
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
@@ -10,16 +10,18 @@
     "keywords": [
         "github",
         "deepwiki",
-        "markdown"
+        "markdown",
+        "analyzer"
     ],
     "author": "",
     "license": "ISC",
-    "description": "Frontend for GitHub DeepWiki Analyzer",
+    "description": "Frontend for Github项目简析",
     "dependencies": {
         "@vue/cli-service": "^5.0.8",
         "axios": "^1.9.0",
         "highlight.js": "^11.9.0",
         "marked": "^15.0.11",
+        "mermaid": "^11.6.0",
         "socket.io-client": "^4.8.1",
         "vue": "^3.5.14",
         "vue-loader": "^17.4.2",

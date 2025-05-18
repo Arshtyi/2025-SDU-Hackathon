@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# GitHub DeepWiki Analyzer 启动脚本
+# Github项目简析 启动脚本
 # 作用：启动前端和后端服务，并处理端口占用问题
 
 # 颜色定义
@@ -265,7 +265,7 @@ case "$1" in
         ;;
         
     *)
-        echo -e "${BLUE}GitHub DeepWiki 解析器${NC} - 启动脚本"
+        echo -e "${BLUE}Github项目简析${NC} - 启动脚本"
         echo ""
         echo "用法: $0 [命令]"
         echo ""

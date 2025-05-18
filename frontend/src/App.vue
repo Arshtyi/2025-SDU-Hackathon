@@ -19,9 +19,11 @@ export default {
 
 body {
     font-family: "Inter", sans-serif;
-    background-color: #f8f9fa;
+    background-color: #f0f4f8;
     color: #333;
     line-height: 1.6;
+    min-height: 100vh;
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
 }
 
 .app-container {
